@@ -1,0 +1,3 @@
+Algoritmo ex2;
+Inicio
+ESCREVA (maior; Fim.
